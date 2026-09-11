@@ -1,0 +1,17 @@
+{
+        "ffffffff-ffff-ffff-ffff-ffffffffffff": {
+                "id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+                "name": "Theme",
+                "description": "custom theme",
+                "homepage": "https://github.com/abcdeneme/zen-mode",
+                "style": "",
+                "readme": "",
+                "image": "",
+                "author": "abcdeneme",
+                "version": "0.0.0",
+                "tags": [],
+                "createdAt": "2026-09-11",
+                "updatedAt": "2026-09-11",
+                "preferences": ""
+        }
+}
