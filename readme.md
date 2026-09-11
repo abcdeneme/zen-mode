@@ -5,6 +5,8 @@
 
 Thumbnail
 
-![image](image.png)
+![image](https://github.com/abcdeneme/zen-mode/blob/main/image.png)
 
 ---
+
+
